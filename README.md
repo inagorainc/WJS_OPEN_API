@@ -1,0 +1,2 @@
+# WJS_OPEN_API
+WJS OPEN APIドキュメント
