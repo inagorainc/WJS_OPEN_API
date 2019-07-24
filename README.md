@@ -1,2 +1,2 @@
 # WJS_OPEN_API
-WJS OPEN APIドキュメント
+WJSは外部のサプライヤ様に公開しているAPIのドキュメントです。
